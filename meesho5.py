@@ -1,5 +1,5 @@
 # Python program to display all the prime numbers within an interval
-lower = 950
+lower = 898
 upper = 1050
 
 print("Prime numbers between", lower, "and", upper, "are:")
